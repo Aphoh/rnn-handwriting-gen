@@ -9,6 +9,7 @@ This is an implementation of the above paper for my own personal learning.
 
 #### TODO:
 - [ ] Import IAM Handwriting Dataset
+- [ ] Mixture Density Network Implementation: See [this](http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/)
 - [ ] Architect barebones version of model
 - [ ] Basic visualizations
 - [ ] Full tensorboard vis
