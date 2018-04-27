@@ -8,7 +8,9 @@ This is an implementation of the above paper for my own personal learning.
 * U. Marti and H. Bunke. The IAM-database: An English Sentence Database for Off-line Handwriting Recognition. Int. Journal on Document Analysis and Recognition, Volume 5, pages 39 - 46, 2002.
 
 #### TODO:
-- [ ] Import IAM Handwriting Dataset
+- [x] NLTK data layer
+- [ ] Basic LSTM Text-gen implementation: See [this](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/)
+- [ ] IAM handwriting data layer
 - [ ] Mixture Density Network Implementation: See [this](http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/)
 - [ ] Architect barebones version of model
 - [ ] Basic visualizations
